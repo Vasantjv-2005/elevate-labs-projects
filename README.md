@@ -55,28 +55,36 @@ npm run dev
 
 ## Below are the screenshot of the projects 
 # Developer Portfolio Generator (Markdown to Website)
-<img width="1919" height="1117" alt="Screenshot 2025-07-19 104627" src="https://github.com/user-attachments/assets/ceb9f164-9b1a-40bd-8a2b-105347c5dc5c" />
-<img width="1919" height="1079" alt="Screenshot 2025-07-19 104611" src="https://github.com/user-attachments/assets/cb7f8f97-251b-40c1-a6d2-a84906c256d7" />
-<img width="1919" height="1197" alt="Screenshot 2025-07-19 104604" src="https://github.com/user-attachments/assets/447e520f-053d-486a-b386-b1bdf17259a0" />
-<img width="1919" height="1199" alt="Screenshot 2025-07-19 104557" src="https://github.com/user-attachments/assets/a0346668-7089-4f3b-b319-6c6f7ffe3e74" />
-<img width="1919" height="1199" alt="Screenshot 2025-07-19 104552" src="https://github.com/user-attachments/assets/41b33b30-55e4-4f95-af6e-7258dd3e4edf" />
-<img width="1912" height="1194" alt="Screenshot 2025-07-19 104546" src="https://github.com/user-attachments/assets/925cb630-f365-4cb6-9103-1ff36508de29" />
-<img width="1919" height="1195" alt="Screenshot 2025-07-19 104542" src="https://github.com/user-attachments/assets/b7599ae8-5960-45fc-8848-073407440317" />
-<img width="1919" height="1199" alt="Screenshot 2025-07-19 104537" src="https://github.com/user-attachments/assets/3c4131e9-6c4c-40ab-8614-e769e5773c3f" />
-<img width="1919" height="1199" alt="Screenshot 2025-07-19 104532" src="https://github.com/user-attachments/assets/9a8dd1ef-6311-47a2-b170-79c970d2f450" />
-<img width="1919" height="1188" alt="Screenshot 2025-07-19 104524" src="https://github.com/user-attachments/assets/23dfbf7b-3613-44fa-bd5c-bf6ac4ba6019" />
-<img width="1919" height="1199" alt="Screenshot 2025-07-19 104519" src="https://github.com/user-attachments/assets/1f1c036d-6a72-46a6-b17e-a39d42db6e04" />
-<img width="1919" height="1199" alt="Screenshot 2025-07-19 104513" src="https://github.com/user-attachments/assets/5ee25aeb-c9ba-4822-b0a9-217b976c37fe" />
-<img width="1919" height="1199" alt="Screenshot 2025-07-19 104457" src="https://github.com/user-attachments/assets/3d123ea3-4b12-4584-bda0-3c309eeb96f8" />
+<img width="1919" height="1199" alt="Screenshot 2025-07-19 104717" src="https://github.com/user-attachments/assets/42ad6a1b-b86b-45fd-b88d-4c0e5ad990de" />
+<img width="1919" height="1199" alt="Screenshot 2025-07-19 104707" src="https://github.com/user-attachments/assets/79cacec6-75cd-48ee-b329-89790c5db202" />
+<img width="1919" height="1106" alt="Screenshot 2025-07-19 104658" src="https://github.com/user-attachments/assets/95d767fe-daf7-48ad-9a18-efd33bbb0185" />
+<img width="1919" height="1112" alt="Screenshot 2025-07-19 104651" src="https://github.com/user-attachments/assets/5d91bdc3-fd75-494b-94cd-c7051b545a77" />
+<img width="1919" height="1199" alt="Screenshot 2025-07-19 104642" src="https://github.com/user-attachments/assets/bb80c4f4-8b7b-4e8f-86ca-eb44624c4d03" />
+<img width="1919" height="1099" alt="Screenshot 2025-07-19 104634" src="https://github.com/user-attachments/assets/0ddf36fc-3df6-479f-885b-93025500bb89" />
+<img width="1919" height="1117" alt="Screenshot 2025-07-19 104627" src="https://github.com/user-attachments/assets/8d53c3d9-460a-410f-90d3-698d5a0723ae" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-19 104611" src="https://github.com/user-attachments/assets/8411c6f3-276a-4251-9e1c-e9d6f076a4c3" />
+<img width="1919" height="1197" alt="Screenshot 2025-07-19 104604" src="https://github.com/user-attachments/assets/2a80a504-6b81-4b32-88be-546d0b1fdcc4" />
+<img width="1919" height="1199" alt="Screenshot 2025-07-19 104557" src="https://github.com/user-attachments/assets/028e5d8d-79ff-4486-8596-1026dd6e6beb" />
+<img width="1919" height="1199" alt="Screenshot 2025-07-19 104552" src="https://github.com/user-attachments/assets/2fc2fa92-77a6-4206-8046-e5c3c4903247" />
+<img width="1912" height="1194" alt="Screenshot 2025-07-19 104546" src="https://github.com/user-attachments/assets/f076f102-5fb6-4cbc-99b9-9fffef96761d" />
+<img width="1919" height="1195" alt="Screenshot 2025-07-19 104542" src="https://github.com/user-attachments/assets/9bc1881c-6c3a-41b6-a7ea-88fb78b5ca71" />
+<img width="1919" height="1199" alt="Screenshot 2025-07-19 104537" src="https://github.com/user-attachments/assets/48468dbb-fcd5-471e-b1ea-ecb8a91e2d02" />
+<img width="1919" height="1199" alt="Screenshot 2025-07-19 104532" src="https://github.com/user-attachments/assets/dcae243b-219e-4151-ad39-605aae2030b8" />
+<img width="1919" height="1188" alt="Screenshot 2025-07-19 104524" src="https://github.com/user-attachments/assets/572f71ca-e58f-46d7-a5fa-4fe97cbb818c" />
+<img width="1919" height="1199" alt="Screenshot 2025-07-19 104519" src="https://github.com/user-attachments/assets/8d66b394-2eda-4fc4-aa82-6dda8d5127e0" />
+<img width="1919" height="1199" alt="Screenshot 2025-07-19 104513" src="https://github.com/user-attachments/assets/7f591aec-4660-4bd4-95eb-b28fd46f40f1" />
+<img width="1919" height="1199" alt="Screenshot 2025-07-19 104457" src="https://github.com/user-attachments/assets/88151993-f581-479a-ad51-09027cabf568" />
+
 
 
 
 
 # Habit Tracker Progressive Web App
-<img width="1919" height="1199" alt="Screenshot 2025-07-19 101204" src="https://github.com/user-attachments/assets/1a166572-7e49-42d0-bb03-c5947ec10d30" />
-<img width="1919" height="1199" alt="Screenshot 2025-07-19 101155" src="https://github.com/user-attachments/assets/416d336a-2216-44c6-9a7f-3b8e5626e9ac" />
-<img width="1919" height="1199" alt="Screenshot 2025-07-19 101145" src="https://github.com/user-attachments/assets/9079b656-6ad3-4887-9ae9-ba33c3211339" />
-<img width="1919" height="1139" alt="Screenshot 2025-07-19 101032" src="https://github.com/user-attachments/assets/4e2b5c16-944c-4b61-878f-2aa43afc3b96" />
+<img width="1919" height="1199" alt="Screenshot 2025-07-19 101204" src="https://github.com/user-attachments/assets/2cb78768-37b7-4d70-a21d-c82a5274a1af" />
+<img width="1919" height="1199" alt="Screenshot 2025-07-19 101155" src="https://github.com/user-attachments/assets/97bda450-6ae1-4fcd-b90f-900c1db3c7da" />
+<img width="1919" height="1199" alt="Screenshot 2025-07-19 101145" src="https://github.com/user-attachments/assets/963a2eb3-40e4-4599-b95c-c874d209ec0d" />
+<img width="1919" height="1139" alt="Screenshot 2025-07-19 101032" src="https://github.com/user-attachments/assets/55dabbaf-767b-4736-a87c-b057d0a20057" />
+
 
 ## IT HAS BOTH THE DARKMODE AND THE LIGHT MODE THEME
 
