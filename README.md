@@ -19,8 +19,8 @@ A powerful web application that converts **Markdown-based resumes and portfolios
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Vasantjv-2005/elevate-labs-project.git
-
+    https://github.com/Vasantjv-2005/elevate-labs-projects.git
+   ```
 
 
 
@@ -122,5 +122,5 @@ A powerful web application that converts **Markdown-based resumes and portfolios
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vasantjv-2005/elevate-labs-project.git
-   cd portfolio-generator
+   https://github.com/Vasantjv-2005/elevate-labs-projects.git
+  ```
