@@ -78,6 +78,8 @@ npm run dev
 <img width="1919" height="1199" alt="Screenshot 2025-07-19 101145" src="https://github.com/user-attachments/assets/9079b656-6ad3-4887-9ae9-ba33c3211339" />
 <img width="1919" height="1139" alt="Screenshot 2025-07-19 101032" src="https://github.com/user-attachments/assets/4e2b5c16-944c-4b61-878f-2aa43afc3b96" />
 
+## IT HAS BOTH THE DARKMODE AND THE LIGHT MODE THEME
+
 
 
 ### Themes
