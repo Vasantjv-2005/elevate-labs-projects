@@ -11,6 +11,7 @@ A powerful web application that converts **Markdown-based resumes and portfolios
 - **Export Options**: Download your portfolio as an HTML file for self-hosting.
 - **Easy Customization**: Switch themes and edit portfolio sections with ease.
 
+## Below are the deployed links of the two projects please do check it 
 ---
 
 ## Here is my markdown code of the project
