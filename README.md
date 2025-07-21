@@ -270,11 +270,3 @@ Have a project in mind or want to chat? Feel free to reach out to me.
 
 ---
 
-## 📦 Getting Started
-
-### 🔧 Installation
-
-1. Clone the repository:
-   ```bash
-   https://github.com/Vasantjv-2005/elevate-labs-projects.git
-  ```
